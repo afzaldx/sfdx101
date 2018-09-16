@@ -1,0 +1,272 @@
+[
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537110840557,
+            "changeTime": 1537110840557,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537110840557,
+            "changeTime": 1537110840557,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537113307935,
+            "changeTime": 1537113307935,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537113204986,
+            "changeTime": 1537113204986,
+            "contentHash": "d9c8aacf5b28cfac3cd383bf721ce78f411c5861",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1537113204995,
+            "changeTime": 1537113204995,
+            "contentHash": "cc6b77d754ed0083f6dbceeb38b48d69caa8d01d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1537113204995,
+            "changeTime": 1537113204995,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1537113204987,
+            "changeTime": 1537113204987,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1537113204989,
+            "changeTime": 1537113204989,
+            "contentHash": "5e9f647b3f721751a6f47c4db5f9f8e82e2c4313",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1537113204991,
+            "changeTime": 1537113204991,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1537113204996,
+            "changeTime": 1537113204996,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycomp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1537113204994,
+            "changeTime": 1537113204994,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycompController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycompController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1537113204990,
+            "changeTime": 1537113204990,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycompHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycompHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1537113204991,
+            "changeTime": 1537113204991,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycompRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/aura/mycomp/mycompRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1537113204993,
+            "changeTime": 1537113204993,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537113307972,
+            "changeTime": 1537113307972,
+            "contentHash": "1387212d946b8dbeaa67d0edf5d37c299bfd18d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/classes/myclass.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/classes/myclass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1537113307970,
+            "changeTime": 1537113307970,
+            "contentHash": "936dcc846503fd6d983b9469ad35c1da028bfe37",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/classes/myclass.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web/force-app/main/default/classes/myclass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1537113307972,
+            "changeTime": 1537113307972,
+            "contentHash": "81366ee3fb05f6762baa99f560ef0f52952ea7ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/afzalmohammad/Desktop/sfdx/web",
+        {
+            "state": "n",
+            "sourcePath": "/Users/afzalmohammad/Desktop/sfdx/web",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1537111427463,
+            "changeTime": 1537111427463,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
