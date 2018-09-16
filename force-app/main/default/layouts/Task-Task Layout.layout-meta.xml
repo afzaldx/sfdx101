@@ -33,6 +33,10 @@
                 <behavior>Edit</behavior>
                 <field>Webinar__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Webinar_URL__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
